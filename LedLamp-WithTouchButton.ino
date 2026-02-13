@@ -59,6 +59,13 @@ unsigned long lastChangeTime = 0;
 volatile bool wakeFlag = false;
 
 void setup() {
+  // =====================================================
+  // FIX: Set PWM frequency to ~31kHz (ultrasonic)
+  // This eliminates coil whine from boost converter
+  // Affects Timer1: Pin 9 and Pin 10
+  // =====================================================
+  TCCR1B = (TCCR1B & 0b11111000) | 0x01;
+  
   pinMode(TOUCH_PIN, INPUT);
   pinMode(PWM_PIN, OUTPUT);
   
