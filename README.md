@@ -51,6 +51,9 @@ IRLZ44N Source ──> GND
 Boost Converter 12 V OUT ──> LED Strip (+)
 Battery (+) ──> TP4056 B+ ──> Boost Converter IN
 ```
+<img width="1338" height="864" alt="image" src="https://github.com/user-attachments/assets/67bab692-5f43-4333-8051-e9a4330d0c39" />
+
+
 
 ## How It Works
 
