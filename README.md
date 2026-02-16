@@ -12,6 +12,13 @@ A battery-powered, touch-controlled LED lamp built with an Arduino (ATmega328P).
 - **Ultrasonic PWM** - Timer1 set to ~31 kHz to eliminate audible coil whine from the boost converter
 - **Power optimization** - Unused peripherals (ADC, SPI, TWI, USART, Timer2) disabled to reduce current draw
 
+3D printed design for desk lamp:
+https://makerworld.com/en/models/2407165
+
+Short assemble video and demonstration:
+[![Youtube Video]()](https://youtube.com/watch?v=sxjUXTncu-s)
+
+
 ## Hardware
 
 ### Components
