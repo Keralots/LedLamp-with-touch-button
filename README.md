@@ -16,7 +16,7 @@ A battery-powered, touch-controlled LED lamp built with an Arduino (ATmega328P).
 https://makerworld.com/en/models/2407165
 
 Short assemble video and demonstration:
-[![Youtube Video]()](https://youtube.com/watch?v=sxjUXTncu-s)
+[![Youtube Video](https://github.com/user-attachments/assets/4e4f8a94-fd24-4f14-b48b-4ef53cc142bb)](https://youtube.com/watch?v=sxjUXTncu-s)
 
 
 ## Hardware
